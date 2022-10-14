@@ -5,3 +5,4 @@
 ### Added a script that compiles a C file and creates an executable named cisfun.
 #### Added a C file that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
 #### Added a c program that exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+#### Added a C program that prints the size of various types on the computer it is compiled and run on.
