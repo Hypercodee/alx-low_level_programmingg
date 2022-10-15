@@ -5,4 +5,5 @@
 #### Added a C program that prints the alphabet in lowercase, followed by uppercase, then a new line.
 #### Added a C program that prints the alphabet in lowercase, followed by a new line Prints all the letters except q and e.
 #### Added a C program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+#### Added a C program that prints all single digit numbers of base 10 starting from 0, followed by a new line (using putchar function).
 
