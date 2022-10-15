@@ -11,3 +11,4 @@
 #### Added a C program that prints all possible combinations of single-digit numbers.
 #### Added a C program that prints all possible different combinations of two digits.
 #### Added a C program prints all possible different combinations of three digits (advanced task 2).
+#### Added a c program that prints all possible combinations of two two-digit numbers.
