@@ -10,5 +10,4 @@
 #### Added a C program that prints all the numbers of base 16 in lowercase, followed by a new line.
 #### Added a C program that prints all possible combinations of single-digit numbers.
 #### Added a C program that prints all possible different combinations of two digits.
-#### Added a C program prints all possible different combinations of three digits.
-
+#### Added a C program prints all possible different combinations of three digits (advanced task 2).
